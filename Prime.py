@@ -11,4 +11,9 @@ for i in range(3,n):
         count=count+1
         if(count==5):
             exit()
+     if(isprime):
+        print(i)
+        count=count+1
+        if(count==5):
+            exit()
     
